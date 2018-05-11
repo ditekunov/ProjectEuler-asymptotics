@@ -20,4 +20,30 @@ object Main extends App {
   factors(600851475143L).max
 
   println(factors(600851475143L).max)
+  
+  
+  /**
+    * Generates prime numbers using Sieve of Eratosthenes.
+    */
+  def generateEratosthenesPrimes: List[Int] =
+    Try(generateEratosthenesPrimesLogic(Stream.from(2)).take(til)) match {
+      case Success(something) => something.toList
+      case Failure(ex) => throw new InputException(ex.toString)
+    }
+
+  /**
+    * Sub-function for generateEratosthenesPrimes
+    */
+  private def generateEratosthenesPrimesLogic(input: Stream[Int]): Stream[Int] =
+    input.head #:: generateEratosthenesPrimesLogic(input.tail.filter(_ % input.head != 0))
+
+  /**
+   * Improved algorithm, has O(n*log(n)) complexity.
+   */
+  val maxPrime = 5000.generateEratosthenesPrimes.filter { x =>
+    600851475143L % x == 0
+  }.max
+
+  
+  print(maxPrime)
 }
