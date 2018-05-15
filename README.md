@@ -10,12 +10,13 @@ Full analysis is presented in Jupiter Notebook markdowns.
  Task                            | Best-case complexity   |
 |--------------------------------|------------------------|
 | [`Task1`](python/Task1.ipynb)  | *O(1)*                 |
-| [`Task2`](python/Task2.ipynb)  | *O(logN)*              |   
+| [`Task2`](python/Task2.ipynb)  | *O(log n)*             |   
 | [`Task3`](python/Task3.ipynb)  | *O(n*log(log n))       |   
 | [`Task4`](python/Task4.ipynb)  | *O(n^2)*               |   
 | [`Task5`](python/Task5.ipynb)  | *O(n / (f(k))*         |   
 | [`Task6`](python/Task6.ipynb)  | *O(1)*                 |   
-| [`Task7`](python/Task7.ipynb)  | *O(n*log(log n))       |  
+| [`Task7`](python/Task7.ipynb)  | *O(n*log(log n))       | 
+| [`Task8`](python/Task8.ipynb)  | *O(n)       | 
 
 
 ### Haskell:
@@ -36,7 +37,7 @@ Full analysis is presented in Jupiter Notebook markdowns.
  Task                            | Best-case complexity   |
 |--------------------------------|------------------------|
 | [`Task1`](python/Task1.ipynb)  | *O(1)*                 |
-| [`Task2`](python/Task2.ipynb)  | *O(logN)*              |   
+| [`Task2`](python/Task2.ipynb)  | *O(logn)*              |   
 | [`Task3`](python/Task3.ipynb)  | *O(n*log(log n))       |   
 | [`Task4`](python/Task4.ipynb)  |              |   
 | [`Task5`](python/Task5.ipynb)  |          |   
