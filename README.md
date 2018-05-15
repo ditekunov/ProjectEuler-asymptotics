@@ -16,7 +16,7 @@ Full analysis is presented in Jupiter Notebook markdowns.
 | [`Task5`](python/Task5.ipynb)  | *O(n / (f(k))*         |   
 | [`Task6`](python/Task6.ipynb)  | *O(1)*                 |   
 | [`Task7`](python/Task7.ipynb)  | *O(n*log(log n))       | 
-| [`Task8`](python/Task8.ipynb)  | *O(n)       | 
+| [`Task8`](python/Task8.ipynb)  | *O(n)*       | 
 
 
 ### Haskell:
@@ -26,7 +26,7 @@ Full analysis is presented in Jupiter Notebook markdowns.
 | [`Task1`](haskell/Task1.hs)     | *O(1)*                 |
 | [`Task2`](haskell/Task2.hs)     | *O(logN)*              |   
 | [`Task3`](haskell/Task3.hs)     | *O(n*log(log n))       |   
-| [`Task4`](haskell/Task4.hs)     |               |   
+| [`Task4`](haskell/Task4.hs)     | *O(n^2)*             |   
 | [`Task5`](haskell/Task5.hs)     |          |   
 | [`Task6`](haskell/Task6.hs)     |               |   
 | [`Task7`](haskell/Task7.hs)     | *O(n*log(log n))       | 
@@ -44,4 +44,4 @@ Full analysis is presented in Jupiter Notebook markdowns.
 | [`Task5`](scala/Task5.scala)  |          |   
 | [`Task6`](scala/Task6.scala)  |               |   
 | [`Task7`](scala/Task7.scala)  |      |  
-| [`Task8`](scala/Task8.scala)  | *O(n)       | 
+| [`Task8`](scala/Task8.scala)  | *O(n)*       | 
