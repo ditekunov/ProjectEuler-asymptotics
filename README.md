@@ -26,7 +26,7 @@ Full analysis is presented in Jupiter Notebook markdowns.
  Task                            | Best-case complexity   |
 |--------------------------------|------------------------|
 | [`Task1`](haskell/Task1.hs)     | *O(1)*                 |
-| [`Task2`](haskell/Task2.hs)     | *O(logN)*              |   
+| [`Task2`](haskell/Task2.hs)     | *O(n)*              |   
 | [`Task3`](haskell/Task3.hs)     | *O(n*log(log n))       |   
 | [`Task4`](haskell/Task4.hs)     | *O(n^2)*             |   
 | [`Task5`](haskell/Task5.hs)     |          |   
@@ -42,7 +42,7 @@ Full analysis is presented in Jupiter Notebook markdowns.
  Task                            | Best-case complexity   |
 |--------------------------------|------------------------|
 | [`Task1`](scala/Task1.scala)  | *O(1)*                 |
-| [`Task2`](scala/Task2.scala)  | *O(logn)*              |   
+| [`Task2`](scala/Task2.scala)  | *O(n)*              |   
 | [`Task3`](scala/Task3.scala)  | *O(n*log(log n))       |   
 | [`Task4`](scala/Task4.scala)  |              |   
 | [`Task5`](scala/Task5.scala)  |          |   
