@@ -28,7 +28,7 @@ Full analysis is presented in Jupiter Notebook markdowns.
 | [`Task3`](haskell/Task3.hs)     | *O(n*log(log n))       |   
 | [`Task4`](haskell/Task4.hs)     | *O(n^2)*             |   
 | [`Task5`](haskell/Task5.hs)     |          |   
-| [`Task6`](haskell/Task6.hs)     |               |   
+| [`Task6`](haskell/Task6.hs)     |   *O(1)*            |   
 | [`Task7`](haskell/Task7.hs)     | *O(n*log(log n))       | 
 | [`Task8`](haskell/Task8.hs)     |                        | 
 
