@@ -41,13 +41,29 @@ Full analysis is presented in Jupiter Notebook markdowns.
 
  Task                            | Best-case complexity   |
 |--------------------------------|------------------------|
-| [`Task1`](scala/Task1.scala)  | *O(1)*                 |
-| [`Task2`](scala/Task2.scala)  | *O(n)*              |   
-| [`Task3`](scala/Task3.scala)  | *O(n*log(log n))       |   
+| [`Task1`](scala/Task1.scala)  | *O(1)*                  |
+| [`Task2`](scala/Task2.scala)  | *O(n)*                  |   
+| [`Task3`](scala/Task3.scala)  | *O(n*log(log n))        |   
 | [`Task4`](scala/Task4.scala)  |              |   
 | [`Task5`](scala/Task5.scala)  |          |   
-| [`Task6`](scala/Task6.scala)  |               |   
+| [`Task6`](scala/Task6.scala)  |   *O(1)*                |   
 | [`Task7`](scala/Task7.scala)  |      |  
-| [`Task8`](scala/Task8.scala)  | *O(n)*       | 
+| [`Task8`](scala/Task8.scala)  | *O(n)*                  | 
 | [`Task9`](scala/Task9.scala)  |       | 
 | [`Task10`](scala/Task_10.scala)  |        | 
+
+
+### R:
+
+ Task                            | Best-case complexity   |
+|--------------------------------|------------------------|
+| [`Task1`](R/Task1.r)  | *O(1)*                          |
+| [`Task2`](R/Task2.r)  | *O(log n)*                      |   
+| [`Task3`](R/Task3.r)  |        |   
+| [`Task4`](R/Task4.r)  |               |   
+| [`Task5`](R/Task5.r)  | *O(n / (f(k))*                  |   
+| [`Task6`](R/Task6.r)  |    *O(1)*                       |   
+| [`Task7`](R/Task7.r)  |        | 
+| [`Task8`](R/Task8.r)  |       | 
+| [`Task9`](R/Task9.r)  |        | 
+| [`Task10`](R/Task_10.r)  |        | 
