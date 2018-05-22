@@ -19,7 +19,9 @@ Full analysis is presented in Jupiter Notebook markdowns.
 | [`Task8`](python/Task8.ipynb)  | *O(n)*       | 
 | [`Task9`](python/Task9.ipynb)  | *O(n^2)*       | 
 | [`Task10`](python/Task_10.ipynb)  | *O(n*log(log n))*       | 
-| [`Task11`](python/Task_11.ipynb)  | *O(n)*       | 
+| [`Task11`](python/Task_11.ipynb)  | *O(n)*       |
+| [`Task12`](python/Task_12.ipynb)  | *O(n^3)*       |
+| [`Task13`](python/Task_13.ipynb)  | *O(n)*        |
 
 
 ### Haskell:
