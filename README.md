@@ -7,28 +7,28 @@ Full analysis is presented in Jupiter Notebook markdowns.
 
 ### Python:
 
- Task                            | Best-case complexity   | Task                             | Best-case complexity   |
-|--------------------------------|------------------------|----------------------------------|------------------------|
-| [`Task1`](python/Task1.ipynb)  | *O(1)*                 |   |        |
-| [`Task2`](python/Task2.ipynb)  | *O(log n)*             |   |        |   
-| [`Task3`](python/Task3.ipynb)  | *O(n*log(log n))       | [`Task23`](python/Task_23.ipynb) |   *Ω(n^2)*             | 
-| [`Task4`](python/Task4.ipynb)  | *O(n^2)*               | [`Task24`](python/Task_24.ipynb) |   *Ω(n!)*              |   
-| [`Task5`](python/Task5.ipynb)  | *O(n / (f(k))*         | [`Task25`](python/Task_25.ipynb) |   *O(n*log n)*         |   
-| [`Task6`](python/Task6.ipynb)  | *O(1)*                 |   |        |   
-| [`Task7`](python/Task7.ipynb)  | *O(n*log(log n))       |   |        | 
-| [`Task8`](python/Task8.ipynb)  | *O(n)*                 |   |        | 
-| [`Task9`](python/Task9.ipynb)  | *O(n^2)*               |   |        | 
-| [`Task10`](python/Task_10.ipynb)  | *O(n*log(log n))*   |   |        | 
-| [`Task11`](python/Task_11.ipynb)  | *O(n)*              |   |        |
-| [`Task12`](python/Task_12.ipynb)  | *O(n^3)*            |   |        |
-| [`Task13`](python/Task_13.ipynb)  | *O(n)*              |   |        | 
-|                                   |                     |   |        |  
-|                                   |                     |   |        |   
-|                                   |                     |   |        | 
-|                                   |                     |   |        |
-|                                   |                     |   |        |
-|                                   |                     |   |        |
-|                                   |                     |   |        |
+ Task                            | Best-case complexity   | Time taken| Task                             | Best-case complexity   |
+|--------------------------------|------------------------|--|----------------------------------|------------------------|
+| [`Task1`](python/Task1.ipynb)  | *O(1)*             |0.00007s   |   |        |
+| [`Task2`](python/Task2.ipynb)  | *O(log n)*         |0.00046s  |  |        |   
+| [`Task3`](python/Task3.ipynb)  | *O(n*log(log n))   |0.00980s  |[`Task23`](python/Task_23.ipynb) |   *Ω(n^2)*             | 
+| [`Task4`](python/Task4.ipynb)  | *O(n^2)*           |0.17236s  |[`Task24`](python/Task_24.ipynb) |   *Ω(n!)*              |   
+| [`Task5`](python/Task5.ipynb)  | *O(n / (f(k))*     |0.00028s  |[`Task25`](python/Task_25.ipynb) |   *O(n*log n)*         |   
+| [`Task6`](python/Task6.ipynb)  | *O(1)*                 |  | |        |   
+| [`Task7`](python/Task7.ipynb)  | *O(n*log(log n))       |  | |        | 
+| [`Task8`](python/Task8.ipynb)  | *O(n)*                 |  | |        | 
+| [`Task9`](python/Task9.ipynb)  | *O(n^2)*               |  | |        | 
+| [`Task10`](python/Task_10.ipynb)  | *O(n*log(log n))*   |  | |        | 
+| [`Task11`](python/Task_11.ipynb)  | *O(n)*              |  | |        |
+| [`Task12`](python/Task_12.ipynb)  | *O(n^3)*            |  | |        |
+| [`Task13`](python/Task_13.ipynb)  | *O(n)*              |  | |        | 
+|                                   |                     |  | |        |  
+|                                   |                     |  | |        |   
+|                                   |                     |  | |        | 
+|                                   |                     |  | |        |
+|                                   |                     |  | |        |
+|                                   |                     |  | |        |
+|                                   |                     |  | |        |
 
 
 
