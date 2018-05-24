@@ -81,3 +81,19 @@ Full analysis is presented in Jupiter Notebook markdowns.
 | [`Task8`](R/Task8.r)  |       | 
 | [`Task9`](R/Task9.r)  |        | 
 | [`Task10`](R/Task_10.r)  |        | 
+
+
+### C++:
+
+| Task | Best-case complexity | Time taken | Task | Best-case complexity | Time taken |
+|------|----------------------|------------|------|----------------------|------------|
+| [`Task1`](cpp/Task1.cpp)     | *O(1)* | 0.002s      |      |                      |            |
+| [`Task2`](cpp/Task2.cpp)     | *O(log n)* | 0.003s  |      |                      |            |
+|      |                      |            |      |                      |            |
+|      |                      |            |      |                      |            |
+|      |                      |            |      |                      |            |
+|      |                      |            |      |                      |            |
+|      |                      |            |      |                      |            |
+|      |                      |            |      |                      |            |
+|      |                      |            |      |                      |            |
+|      |                      |            |      |                      |            |
