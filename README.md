@@ -1,4 +1,4 @@
-## projectEuler-research
+## projectEuler-asymptotics
 Repository, that contains realizations of "Project Euler" problems solutions with asymptotic analysis.
 
 Implemented in Python, Scala, Haskell and R.
