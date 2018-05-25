@@ -9,19 +9,19 @@ Full analysis is presented in Jupiter Notebook markdowns.
 
  Task                            | Best-case complexity   | Time taken| Task                             | Best-case complexity   |
 |--------------------------------|------------------------|--|----------------------------------|------------------------|
-| [`Task1`](python/Task1.ipynb)  | *O(1)*             |0.00007s   |   |        |
-| [`Task2`](python/Task2.ipynb)  | *O(log n)*         |0.00046s  |  |        |   
-| [`Task3`](python/Task3.ipynb)  | *O(n*log(log n))   |0.00980s  |[`Task23`](python/Task_23.ipynb) |   *Ω(n^2)*             | 
-| [`Task4`](python/Task4.ipynb)  | *O(n^2)*           |0.17236s  |[`Task24`](python/Task_24.ipynb) |   *Ω(n!)*              |   
-| [`Task5`](python/Task5.ipynb)  | *O(n / (f(k))*     |0.00028s  |[`Task25`](python/Task_25.ipynb) |   *O(n*log n)*         |   
-| [`Task6`](python/Task6.ipynb)  | *O(1)*             |0.00007s  | |        |   
-| [`Task7`](python/Task7.ipynb)  | *O(n*log(log n))   |0.05955s  | |        | 
-| [`Task8`](python/Task8.ipynb)  | *O(n)*             |0.00213s  | |        | 
-| [`Task9`](python/Task9.ipynb)  | *O(n^2)*             |7.02900s  | |        | 
-| [`Task10`](python/Task_10.ipynb)  | *O(n*log(log n))* |0.81902s  | |        | 
-| [`Task11`](python/Task_11.ipynb)  | *O(n)*          |0.00214s  | |        |
-| [`Task12`](python/Task_12.ipynb)  | *O(n^3)*        |1.70887s  | |        |
-| [`Task13`](python/Task_13.ipynb)  | *O(n)*          |0.00014s  | |        | 
+| [`Problem1`](python/Problem1.ipynb)  | *O(1)*             |0.00007s   |   |        |
+| [`Problem2`](python/Problem2.ipynb)  | *O(log n)*         |0.00046s  |  |        |   
+| [`Problem3`](python/Problem3.ipynb)| *O(n*log(log n))|0.00980s  |[`Problem23`](python/Problem_23.ipynb) |*Ω(n^2)*         | 
+| [`Problem4`](python/Problem4.ipynb)| *O(n^2)*        |0.17236s  |[`Problem24`](python/Problem_24.ipynb) |   *Ω(n!)*       |   
+| [`Problem5`](python/Problem5.ipynb)| *O(n / (f(k))*  |0.00028s  |[`Problem25`](python/Problem_25.ipynb) |   *O(n*log n)*  |   
+| [`Problem6`](python/Problem6.ipynb)| *O(1)*          |0.00007s  | |        |   
+| [`Problem7`](python/Problem7.ipynb)| *O(n*log(log n))|0.05955s  | |        | 
+| [`Problem8`](python/Problem8.ipynb)| *O(n)*          |0.00213s  | |        | 
+| [`Problem9`](python/Problem9.ipynb)| *O(n^2)*          |7.02900s  | |        | 
+| [`Problem10`](python/Problem_10.ipynb)| *O(n*log(log n))* |0.81902s  | |        | 
+| [`Problem11`](python/Problem_11.ipynb)| *O(n)*          |0.00214s  | |        |
+| [`Problem12`](python/Problem_12.ipynb)| *O(n^3)*        |1.70887s  | |        |
+| [`Problem13`](python/Problem_13.ipynb)| *O(n)*          |0.00014s  | |        | 
 |                                   |                     |  | |        |  
 |                                   |                     |  | |        |   
 |                                   |                     |  | |        | 
