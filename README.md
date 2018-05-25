@@ -1,7 +1,7 @@
 ## ProjectEuler-asymptotics
 Repository, that contains realizations of "Project Euler" problems solutions with asymptotic analysis.
 
-Implemented in Python, Scala, Haskell and R.
+Implemented in Python, Scala, Haskell, C++ and R.
 
 Full analysis is presented in Jupiter Notebook markdowns.
 
