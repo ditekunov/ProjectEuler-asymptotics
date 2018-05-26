@@ -7,8 +7,8 @@ Full analysis is presented in Jupiter Notebook markdowns.
 
 ### Python:
 
- Task                            | Best-case complexity   | Time taken| Task                             | Best-case complexity   |
-|--------------------------------|------------------------|--|----------------------------------|------------------------|
+ Task                                  |Best-case complexity|Time taken| Task                       | Best-case complexity   |
+|--------------------------------------|---------------------|--|----------------------------------|------------------------|
 | [`Problem1`](python/Problem1.ipynb)  | *O(1)*             |0.00007s   |   |        |
 | [`Problem2`](python/Problem2.ipynb)  | *O(log n)*         |0.00046s  |  |        |   
 | [`Problem3`](python/Problem3.ipynb)| *O(n*log(log n))|0.00980s  |[`Problem23`](python/Problem_23.ipynb) |*Ω(n^2)*         | 
@@ -37,34 +37,44 @@ Full analysis is presented in Jupiter Notebook markdowns.
 
 ### Haskell:
 
- Task                            | Best-case complexity   |
-|--------------------------------|------------------------|
-| [`Problem1`](haskell/Problem1.hs)     | *O(1)*                 |
-| [`Problem2`](haskell/Problem2.hs)     | *O(n)*              |   
-| [`Problem3`](haskell/Problem3.hs)     | *O(n*log(log n))       |   
-| [`Problem4`](haskell/Problem4.hs)     | *O(n^2)*             |   
-| [`Problem5`](haskell/Problem5.hs)     |          |   
-| [`Problem6`](haskell/Problem6.hs)     |   *O(1)*            |   
-| [`Problem7`](haskell/Problem7.hs)     | *O(n*log(log n))       | 
-| [`Problem8`](haskell/Problem8.hs)     |                        | 
-| [`Problem9`](haskell/Problem9.hs)  |        | 
+ Task                              | Best-case complexity   |
+|----------------------------------|------------------------|
+| [`Problem1`](haskell/Problem1.hs)| *O(1)*                 |
+| [`Problem2`](haskell/Problem2.hs)| *O(n)*              |   
+| [`Problem3`](haskell/Problem3.hs)| *O(n*log(log n))       |   
+| [`Problem4`](haskell/Problem4.hs)| *O(n^2)*             |   0.224012
+| [`Problem5`](haskell/Problem5.hs)|          |   
+| [`Problem6`](haskell/Problem6.hs)|   *O(1)*            |   
+| [`Problem7`](haskell/Problem7.hs)| *O(n*log(log n))       | 
+| [`Problem8`](haskell/Problem8.hs)|                        | 
+| [`Problem9`](haskell/Problem9.hs)|        | 
 | [`Problem10`](haskell/Problem_10.hs)  | *O(n*log(log n))*       | 
 
 
 ### Scala:
 
- Task                            | Best-case complexity   |
-|--------------------------------|------------------------|
-| [`Problem1`](scala/Problem1.scala)  | *O(1)*                  |
-| [`Problem2`](scala/Problem2.scala)  | *O(n)*                  |   
-| [`Problem3`](scala/Problem3.scala)  | *O(n*log(log n))        |   
-| [`Problem4`](scala/Problem4.scala)  |              |   
-| [`Problem5`](scala/Problem5.scala)  |          |   
-| [`Problem6`](scala/Problem6.scala)  |   *O(1)*                |   
-| [`Problem7`](scala/Problem7.scala)  |      |  
-| [`Problem8`](scala/Problem8.scala)  | *O(n)*                  | 
-| [`Problem9`](scala/Problem9.scala)  |       | 
-| [`Problem10`](scala/Problem_10.scala)  |        | 
+ Task                            | Best-case complexity   |Time taken|Task|Best-case complexity|
+|--------------------------------|------------------------|----------|----|--------------------|
+| [`Problem1`](scala/Problem1.scala)  | *O(1)*            |  | |        |
+| [`Problem2`](scala/Problem2.scala)  | *O(n)*            |  | |        |   
+| [`Problem3`](scala/Problem3.scala)  | *O(n*log(log n))  |  | |        |   
+| [`Problem4`](scala/Problem4.scala)  | *O(n^2)*          |0.224012s| |        | 
+| [`Problem5`](scala/Problem5.scala)  |                   |  | |        |
+| [`Problem6`](scala/Problem6.scala)  |   *O(1)*          |  | |        | 
+| [`Problem7`](scala/Problem7.scala)  |                   |  | |        |
+| [`Problem8`](scala/Problem8.scala)  | *O(n)*            |  | |        |
+| [`Problem9`](scala/Problem9.scala)  |                   |  | |        |
+| [`Problem10`](scala/Problem_10.scala) |                 |  | |        |
+| [`Problem11`](python/Problem_11.ipynb)| *O(n)*          |  | |        |
+| [`Problem12`](python/Problem_12.ipynb)| *O(n^3)*        |  | |        |
+| [`Problem13`](python/Problem_13.ipynb)| *O(n)*          |  | |        | 
+| [`Problem14`](python/Problem_14.ipynb)| *O(n)*          |  | |        |  
+|                                   |                     |  | |        |   
+|                                   |                     |  | |        | 
+|                                   |                     |  | |        |
+|                                   |                     |  | |        |
+|                                   |                     |  | |        |
+|                                   |                     |  | |        |
 
 
 ### R:
