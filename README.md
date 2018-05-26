@@ -7,13 +7,13 @@ Full analysis is presented in Jupiter Notebook markdowns.
 
 ### Python:
 
- Task                                  |Best-case complexity|Time taken| Task                       | Best-case complexity   |
-|--------------------------------------|---------------------|--|----------------------------------|------------------------|
+ Problem                                  |Best-case complexity|Time taken| Problem                | Best-case complexity   | Time taken|
+|--------------------------------------|---------------------|--|----------------------------------|----------------------|-|
 | [`Problem1`](python/Problem1.ipynb)  | *O(1)*             |0.00007s   |   |        |
 | [`Problem2`](python/Problem2.ipynb)  | *O(log n)*         |0.00046s  |  |        |   
-| [`Problem3`](python/Problem3.ipynb)| *O(n*log(log n))|0.00980s  |[`Problem23`](python/Problem_23.ipynb) |*Ω(n^2)*         | 
-| [`Problem4`](python/Problem4.ipynb)| *O(n^2)*        |0.17236s  |[`Problem24`](python/Problem_24.ipynb) |   *Ω(n!)*       |   
-| [`Problem5`](python/Problem5.ipynb)| *O(n / (f(k))*  |0.00028s  |[`Problem25`](python/Problem_25.ipynb) |   *O(n*log n)*  |   
+| [`Problem3`](python/Problem3.ipynb)| *O(n*log(log n))|0.00980s  |[`Problem23`](python/Problem_23.ipynb)|*Ω(n^2)* |27.00292s| 
+| [`Problem4`](python/Problem4.ipynb)| *O(n^2)*        |0.17236s  |[`Problem24`](python/Problem_24.ipynb) | *Ω(n!)*| 2.87796s|   
+| [`Problem5`](python/Problem5.ipynb)| *O(n / (f(k))* |0.00028s|[`Problem25`](python/Problem_25.ipynb)|*O(nlog n)*|  0.30280s| 
 | [`Problem6`](python/Problem6.ipynb)| *O(1)*          |0.00007s  | |        |   
 | [`Problem7`](python/Problem7.ipynb)| *O(n*log(log n))|0.05955s  | |        | 
 | [`Problem8`](python/Problem8.ipynb)| *O(n)*          |0.00213s  | |        | 
