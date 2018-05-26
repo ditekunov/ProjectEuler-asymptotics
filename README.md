@@ -92,7 +92,7 @@ Full analysis is presented in Jupiter Notebook markdowns.
 |      |                      |            |      |                      |            |
 |      |                      |            |      |                      |            |
 |      |                      |            |      |                      |            |
-|      |                      |            |      |                      |            |
+| [`Problem6`](cpp/Problem6.cpp)     | *O(1)* | 0.026s      |      |                      |            |
 |      |                      |            |      |                      |            |
 |      |                      |            |      |                      |            |
 |      |                      |            |      |                      |            |
