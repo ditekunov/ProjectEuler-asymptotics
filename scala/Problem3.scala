@@ -37,13 +37,22 @@ object Main extends App {
   private def generateEratosthenesPrimesLogic(input: Stream[Int]): Stream[Int] =
     input.head #:: generateEratosthenesPrimesLogic(input.tail.filter(_ % input.head != 0))
 
-  /**
-   * Improved algorithm, has O(n*log(n)) complexity.
-   */
-  val maxPrime = 5000.generateEratosthenesPrimes.filter { x =>
-    600851475143L % x == 0
-  }.max
+  def time[R](block: => R): R = {
+    val t0 = System.nanoTime()
+    val result = block    // call-by-name
+    val t1 = System.nanoTime()
+    println("Elapsed time: " + (t1 - t0)*0.000000001 + "s")
+    result
+  }
 
-  
-  print(maxPrime)
+  time {
+    /**
+      * Improved algorithm, has O(n*log(n)) complexity.
+      */
+    val maxPrime = 5000.generateEratosthenesPrimes.filter { x =>
+      600851475143L % x == 0
+    }.max
+
+    print(maxPrime)
+  }
 }
