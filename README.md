@@ -39,56 +39,56 @@ Full analysis is presented in Jupiter Notebook markdowns.
 
  Task                            | Best-case complexity   |
 |--------------------------------|------------------------|
-| [`Task1`](haskell/Task1.hs)     | *O(1)*                 |
-| [`Task2`](haskell/Task2.hs)     | *O(n)*              |   
-| [`Task3`](haskell/Task3.hs)     | *O(n*log(log n))       |   
-| [`Task4`](haskell/Task4.hs)     | *O(n^2)*             |   
-| [`Task5`](haskell/Task5.hs)     |          |   
-| [`Task6`](haskell/Task6.hs)     |   *O(1)*            |   
-| [`Task7`](haskell/Task7.hs)     | *O(n*log(log n))       | 
-| [`Task8`](haskell/Task8.hs)     |                        | 
-| [`Task9`](haskell/Task9.hs)  |        | 
-| [`Task10`](haskell/Task_10.hs)  | *O(n*log(log n))*       | 
+| [`Problem1`](haskell/Problem1.hs)     | *O(1)*                 |
+| [`Problem2`](haskell/Problem2.hs)     | *O(n)*              |   
+| [`Problem3`](haskell/Problem3.hs)     | *O(n*log(log n))       |   
+| [`Problem4`](haskell/Problem4.hs)     | *O(n^2)*             |   
+| [`Problem5`](haskell/Problem5.hs)     |          |   
+| [`Problem6`](haskell/Problem6.hs)     |   *O(1)*            |   
+| [`Problem7`](haskell/Problem7.hs)     | *O(n*log(log n))       | 
+| [`Problem8`](haskell/Problem8.hs)     |                        | 
+| [`Problem9`](haskell/Problem9.hs)  |        | 
+| [`Problem10`](haskell/Problem_10.hs)  | *O(n*log(log n))*       | 
 
 
 ### Scala:
 
  Task                            | Best-case complexity   |
 |--------------------------------|------------------------|
-| [`Task1`](scala/Task1.scala)  | *O(1)*                  |
-| [`Task2`](scala/Task2.scala)  | *O(n)*                  |   
-| [`Task3`](scala/Task3.scala)  | *O(n*log(log n))        |   
-| [`Task4`](scala/Task4.scala)  |              |   
-| [`Task5`](scala/Task5.scala)  |          |   
-| [`Task6`](scala/Task6.scala)  |   *O(1)*                |   
-| [`Task7`](scala/Task7.scala)  |      |  
-| [`Task8`](scala/Task8.scala)  | *O(n)*                  | 
-| [`Task9`](scala/Task9.scala)  |       | 
-| [`Task10`](scala/Task_10.scala)  |        | 
+| [`Problem1`](scala/Problem1.scala)  | *O(1)*                  |
+| [`Problem2`](scala/Problem2.scala)  | *O(n)*                  |   
+| [`Problem3`](scala/Problem3.scala)  | *O(n*log(log n))        |   
+| [`Problem4`](scala/Problem4.scala)  |              |   
+| [`Problem5`](scala/Problem5.scala)  |          |   
+| [`Problem6`](scala/Problem6.scala)  |   *O(1)*                |   
+| [`Problem7`](scala/Problem7.scala)  |      |  
+| [`Problem8`](scala/Problem8.scala)  | *O(n)*                  | 
+| [`Problem9`](scala/Problem9.scala)  |       | 
+| [`Problem10`](scala/Problem_10.scala)  |        | 
 
 
 ### R:
 
  Task                            | Best-case complexity   |
 |--------------------------------|------------------------|
-| [`Task1`](R/Task1.r)  | *O(1)*                          |
-| [`Task2`](R/Task2.r)  | *O(log n)*                      |   
-| [`Task3`](R/Task3.r)  |        |   
-| [`Task4`](R/Task4.r)  |               |   
-| [`Task5`](R/Task5.r)  | *O(n / (f(k))*                  |   
-| [`Task6`](R/Task6.r)  |    *O(1)*                       |   
-| [`Task7`](R/Task7.r)  |        | 
-| [`Task8`](R/Task8.r)  |       | 
-| [`Task9`](R/Task9.r)  |        | 
-| [`Task10`](R/Task_10.r)  |        | 
+| [`Problem1`](R/Problem1.r)  | *O(1)*                          |
+| [`Problem2`](R/Problem2.r)  | *O(log n)*                      |   
+| [`Problem3`](R/Problem3.r)  |        |   
+| [`Problem4`](R/Problem4.r)  |               |   
+| [`Problem5`](R/Problem5.r)  | *O(n / (f(k))*                  |   
+| [`Problem6`](R/Problem6.r)  |    *O(1)*                       |   
+| [`Problem7`](R/Problem7.r)  |        | 
+| [`Problem8`](R/Problem8.r)  |       | 
+| [`Problem9`](R/Problem9.r)  |        | 
+| [`Problem10`](R/Problem_10.r)  |        | 
 
 
 ### C++:
 
 | Task | Best-case complexity | Time taken | Task | Best-case complexity | Time taken |
 |------|----------------------|------------|------|----------------------|------------|
-| [`Task1`](cpp/Task1.cpp)     | *O(1)* | 0.002s      |      |                      |            |
-| [`Task2`](cpp/Task2.cpp)     | *O(log n)* | 0.003s  |      |                      |            |
+| [`Problem1`](cpp/Problem1.cpp)     | *O(1)* | 0.002s      |      |                      |            |
+| [`Problem2`](cpp/Problem2.cpp)     | *O(log n)* | 0.003s  |      |                      |            |
 |      |                      |            |      |                      |            |
 |      |                      |            |      |                      |            |
 |      |                      |            |      |                      |            |
