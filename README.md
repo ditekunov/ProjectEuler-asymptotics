@@ -65,10 +65,10 @@ Full analysis is presented in Jupiter Notebook markdowns.
 | [`Problem8`](scala/Problem8.scala)  | *O(n)*            |  | |        |
 | [`Problem9`](scala/Problem9.scala)  |                   |  | |        |
 | [`Problem10`](scala/Problem_10.scala) |                 |  | |        |
-| [`Problem11`](python/Problem_11.ipynb)| *O(n)*          |  | |        |
-| [`Problem12`](python/Problem_12.ipynb)| *O(n^3)*        |  | |        |
-| [`Problem13`](python/Problem_13.ipynb)| *O(n)*          |  | |        | 
-| [`Problem14`](python/Problem_14.ipynb)| *O(n)*          |  | |        |  
+| |           |  | |        |
+| |        |  | |        |
+| |        |  | |        | 
+| |        |  | |        |  
 |                                   |                     |  | |        |   
 |                                   |                     |  | |        | 
 |                                   |                     |  | |        |
