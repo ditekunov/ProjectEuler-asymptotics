@@ -9,12 +9,21 @@ object Main extends App {
   }
   println(basicAlgo(1000))
 
-  /**
-    * O(1)
-    */
-  def bestAlgo(til: Int): Int = {
-    ((3*((til-1)/3)*(((til-1)/3)+1))/2) + ((5*((til-1)/5)*(((til-1)/5)+1))/2) - ((15*((til-1)/15)*(((til-1)/15)+1))/2)
+ def time[R](block: => R): R = {
+    val t0 = System.nanoTime()
+    val result = block    // call-by-name
+    val t1 = System.nanoTime()
+    println("Elapsed time: " + (t1 - t0)*0.000000001 + "s")
+    result
   }
 
-  println(bestAlgo(1000))
-}
+  time {
+    /**
+      * O(1)
+      */
+    def bestAlgo(til: Int): Int = {
+      ((3*((til-1)/3)*(((til-1)/3)+1))/2) + ((5*((til-1)/5)*(((til-1)/5)+1))/2) - ((15*((til-1)/15)*(((til-1)/15)+1))/2)
+    }
+
+    println(bestAlgo(1000))
+  }
