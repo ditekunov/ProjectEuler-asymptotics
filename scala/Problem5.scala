@@ -1,4 +1,4 @@
-// O(N^2)
+// O(n / (f(k))
 object Main extends App {
 
   def time[R](block: => R): R = {
@@ -10,14 +10,14 @@ object Main extends App {
   }
 
   time {
-    def task5(cur: Int = 2 * 3 * 5 * 7 * 11 * 13 * 17 * 19): Int = {
+    def problem5(cur: Int = 2 * 3 * 5 * 7 * 11 * 13 * 17 * 19): Int = {
       if (cur % 4 == 0 && cur % 6 == 0 && cur % 8 == 0 &&
         cur % 9 == 0 && cur % 10 == 0 && cur % 12 == 0 &&
         cur % 14 == 0 && cur % 15 == 0 && cur % 16 == 0 &&
         cur % 18 == 0 && cur % 20 == 0) cur
-      else task5(cur + 2 * 3 * 5 * 7 * 11 * 13 * 17 * 19)
+      else problem5(cur + 2 * 3 * 5 * 7 * 11 * 13 * 17 * 19)
     }
-    print(task5())
+    print(problem5())
   }
 
 
