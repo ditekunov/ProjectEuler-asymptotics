@@ -58,7 +58,7 @@ Full analysis is presented in Jupiter Notebook markdowns.
 | [`Problem1`](scala/Problem1.scala)  | *O(1)*            |0.18095s| |        |
 | [`Problem2`](scala/Problem2.scala)  | *O(n)*            |0.16213s| |        |   
 | [`Problem3`](scala/Problem3.scala)  | *O(n*log(log n))  |4.57282s| |        |   
-| [`Problem4`](scala/Problem4.scala)  | *O(n^2)*          || |        | 
+| [`Problem4`](scala/Problem4.scala)  | *O(n^2)*          |0.86283s| |        | 
 | [`Problem5`](scala/Problem5.scala)  | *O(n / (f(k))*    |0.22402s| |        |
 | [`Problem6`](scala/Problem6.scala)  |   *O(1)*          |  | |        | 
 | [`Problem7`](scala/Problem7.scala)  |                   |  | |        |
