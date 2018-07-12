@@ -63,7 +63,7 @@ Full analysis is presented in Jupiter Notebook markdowns.
 | [`Problem6`](scala/Problem6.scala)  |   *O(1)*          |        | |        | 
 | [`Problem7`](scala/Problem7.scala)  | *O(n*log(log n))  |        | |        |
 | [`Problem8`](scala/Problem8.scala)  | *O(n)*            |        | |        |
-| [`Problem9`](scala/Problem9.scala)  | *O(n^2)*          |        | | [`Problem29`](scala/Problem_29.scala)       |
+| [`Problem9`](scala/Problem9.scala)  | *O(n^2)*          |        |[`Problem29`](scala/Problem_29.scala)  |       |
 | [`Problem10`](scala/Problem_10.scala) | *O(n*log(log n))* |  | |        |
 | [`Problem11`](scala/Problem_11.scala) | *O(n)*                |  | |        |
 | |        |  | |        |
